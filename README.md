@@ -70,7 +70,7 @@ The project uses five main tables:
 - `repair_status` - Status of the warranty claim (e.g., Completed, In Progress, Pending, Rejected).
 
 ## ERD (Entity Relationship Diagram)
-![ERD Diagram](link-to-your-erd-image)
+![ERD Diagram](https://github.com/RajanKumar-787/Apple_Retail_Sales_Analysis_SQL/blob/47a8ea0a5dc4f67250e1c5a9a5afe51874162b89/Images/ERD%20Diagram.png)
 
 ## Project Structure
 ```
