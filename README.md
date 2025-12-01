@@ -95,6 +95,8 @@ Apple_Retail_Sales_Analysis_SQL/
 
 ## Business Problems Solved
 
+##### [View Full SQL Queries](https://github.com/RajanKumar-787/Apple_Retail_Sales_Analysis_SQL/blob/ed0801126d9d3de9717bf08fc4ed43973db66743/Queries/apple_retail_sales_analysis.sql)
+
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
 3. Identify how many sales occurred in December 2023.
